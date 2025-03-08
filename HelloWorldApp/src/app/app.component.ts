@@ -10,7 +10,7 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'HelloWorldApp';
 
-  //imgUrl="D:\Angular_DataBinding_App\media\bridgelab.png";
+  imgUrl="D:\Angular_DataBinding_App\media\bridgelab.png";
   ngOnInit(): void{
     this.title="Hello from BridgeLabz.";
   }
